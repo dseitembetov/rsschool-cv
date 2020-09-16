@@ -6,3 +6,7 @@ Code examples: They are not available yet, but I will post them on https://githu
 Experience: Audit Assistant (1.5 years), Management Consultant (0.5 years); For university course of web-programming prepared several websites using HTML5, CSS, JS.
 Education: Nazarbayev University - Bachelor's Degree in Economics (Math Intensive); ACCA F1-F4 (Accounting Certificates); SQL for Analysts (Laba.com); some udemy courses on data science, R and Python are in progress.
 English: Epam english test result: B2; All of my workplaces required English as work language. I teach IELTS and some school levels; The period of English use is from 2012 (Nazarbayev University courses are conducted in English) to 2020.
+Current experience: I work as IT Business Analyst for iSATE LLC, I have submitted my application to EPAM on hh.kz for the position of Business Analyst
+Current experience: I work as IT Business Analyst for iSATE LLC. I have submitted my application to EPAM on hh.kz for the position of Business Analyst in Nur-Sultan
+Current experience: I work as IT Business Analyst for iSATE LLC. I have submitted my application to EPAM on hh.kz for the position of Business Analyst in Nur-Sultan
+Current experience: I work as IT Business Analyst for iSATE LLC. I have submitted my application to EPAM on hh.kz for the position of Business Analyst in Nur-Sultan
